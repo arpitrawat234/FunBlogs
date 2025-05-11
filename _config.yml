@@ -1,6 +1,6 @@
-  title: My Docs Page Title
-  description: MY description
-  url: "https://base/url/site"
+  title: "Arpit says"
+  description: "Arpit's Blog"
+  url: "https://arpitrawat234.github.io/FunBlogs/"
   theme: millidocs-dark
 
   markdown: kramdown
