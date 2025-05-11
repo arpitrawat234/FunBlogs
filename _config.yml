@@ -1,14 +1,1 @@
-  title: "Arpit says"
-  description: "Arpit's Blog"
-  url: "https://arpitrawat234.github.io/FunBlogs/"
-  theme: millidocs-dark
-
-  markdown: kramdown
-  kramdown:
-    syntax_highlighter_opts:
-      disable : true
-
-  exclude:
-    - Gemfile
-    - Gemfile.lock
-    - README.md
+remote_theme: flancast90/millidocs-dark
