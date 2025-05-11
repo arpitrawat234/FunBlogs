@@ -1,0 +1,14 @@
+  title: My Docs Page Title
+  description: MY description
+  url: "https://base/url/site"
+  theme: millidocs-dark
+
+  markdown: kramdown
+  kramdown:
+    syntax_highlighter_opts:
+      disable : true
+
+  exclude:
+    - Gemfile
+    - Gemfile.lock
+    - README.md
